@@ -21,7 +21,7 @@ const embed = new Discord.MessageEmbed()
 \`animal\` - 
 
 **Links**
-**[Invite](https://discord.com/oauth2/authorize?client_id=806840212608909344&permissions=70346817&scope=bot) - [Server Support](https://discord.gg/jokerstaff)**
+**[Invite](https://discord.com/oauth2/authorize?client_id=842708798892146718&permissions=8&scope=bot) - [Server Support](https://discord.gg/jokerstaff)**
 `)
     
 message.channel.send({embed});
